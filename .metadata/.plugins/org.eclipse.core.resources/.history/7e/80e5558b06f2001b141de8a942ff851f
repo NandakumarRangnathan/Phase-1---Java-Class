@@ -1,0 +1,15 @@
+package com.simplilearn.java.DataStructure;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public final class LinearSearchClass {
+
+	public static void main(String[] args) {
+		
+		List<Integer> al = new ArrayList<Integer>() {78,34,90,86,99,23,65,76,12,45,65,120};
+		
+
+	}
+
+}

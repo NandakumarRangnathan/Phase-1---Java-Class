@@ -1,0 +1,13 @@
+package com.simplilearn.java.DataStructure;
+
+public class SelectionSortClass {
+
+	public static void main(String[] args) {
+		
+		int[] data = new int[] {71, 68, 89, 92, 54};
+		int max = data.length;
+		int[] sorted = new int[max];
+
+	}
+
+}

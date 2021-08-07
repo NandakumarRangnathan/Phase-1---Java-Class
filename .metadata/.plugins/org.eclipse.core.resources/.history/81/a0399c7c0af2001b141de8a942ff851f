@@ -1,0 +1,13 @@
+package com.simplilearn.java.DataStructure;
+
+import java.util.TreeSet;
+
+public class BinarySearchClass {
+
+	public static void main(String[] args) {
+		
+		TreeSet<Integer> ts = new TreeSet<Integer>();
+
+	}
+
+}

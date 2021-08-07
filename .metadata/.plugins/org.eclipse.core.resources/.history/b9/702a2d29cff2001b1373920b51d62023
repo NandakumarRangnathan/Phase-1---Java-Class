@@ -1,0 +1,14 @@
+package com.simplilearn.java;
+
+import java.util.Arrays;
+import java.util.List;
+
+public class LamdaExpClass {
+
+	public static void main(String[] args) {
+		
+		List<Integer> al = )
+
+	}
+
+}

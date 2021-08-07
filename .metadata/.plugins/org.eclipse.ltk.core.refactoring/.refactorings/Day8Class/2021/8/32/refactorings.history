@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 2 elements to &apos;Day8Class/src/com.simplilearn.java.features&apos;&#x0D;&#x0A;- Original project: &apos;Day8Class&apos;&#x0D;&#x0A;- Destination element: &apos;Day8Class/src/com.simplilearn.java.features&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     com.simplilearn.java.LamdaExpClass.java&#x0D;&#x0A;     com.simplilearn.java.InterfaceClass.java&#x0D;&#x0A;- Update references to refactored element" description="Move compilation units" destination="/src&lt;com.simplilearn.java.features" element1="/src&lt;com.simplilearn.java{LamdaExpClass.java" element2="/src&lt;com.simplilearn.java{InterfaceClass.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1627827521920" units="2" version="1.0"/>
+</session>
