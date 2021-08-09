@@ -1,5 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <libraryInfos>
     <libraryInfo home="C:\Users\rnandak3\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149\jre" version="16.0.2"/>
+    <libraryInfo home="C:\ford\jdk\ibm\jre" version="1.8.0_151">
+        <bootpath>
+            <entry path="C:\ford\jdk\ibm\jre\bin\compressedrefs\jclSC180\vm.jar"/>
+            <entry path="C:\ford\jdk\ibm\jre\lib\se-service.jar"/>
+            <entry path="C:\ford\jdk\ibm\jre\lib\cuda4j.jar"/>
+            <entry path="C:\ford\jdk\ibm\jre\lib\math.jar"/>
+            <entry path="C:\ford\jdk\ibm\jre\lib\ibmorb.jar"/>
+            <entry path="C:\ford\jdk\ibm\jre\lib\ibmorbapi.jar"/>
+            <entry path="C:\ford\jdk\ibm\jre\lib\ibmcfw.jar"/>
+            <entry path="C:\ford\jdk\ibm\jre\lib\ibmpkcs.jar"/>
+            <entry path="C:\ford\jdk\ibm\jre\lib\ibmcertpathfw.jar"/>
+            <entry path="C:\ford\jdk\ibm\jre\lib\ibmjgssfw.jar"/>
+            <entry path="C:\ford\jdk\ibm\jre\lib\ibmjssefw.jar"/>
+            <entry path="C:\ford\jdk\ibm\jre\lib\ibmsaslfw.jar"/>
+            <entry path="C:\ford\jdk\ibm\jre\lib\ibmjcefw.jar"/>
+            <entry path="C:\ford\jdk\ibm\jre\lib\ibmjgssprovider.jar"/>
+            <entry path="C:\ford\jdk\ibm\jre\lib\ibmjsseprovider2.jar"/>
+            <entry path="C:\ford\jdk\ibm\jre\lib\ibmcertpathprovider.jar"/>
+            <entry path="C:\ford\jdk\ibm\jre\lib\xmldsigfw.jar"/>
+            <entry path="C:\ford\jdk\ibm\jre\lib\xml.jar"/>
+            <entry path="C:\ford\jdk\ibm\jre\lib\charsets.jar"/>
+            <entry path="C:\ford\jdk\ibm\jre\lib\resources.jar"/>
+            <entry path="C:\ford\jdk\ibm\jre\lib\rt.jar"/>
+            <entry path="C:\ford\jdk\ibm\jre\lib\dataaccess.jar"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="C:\ford\jdk\ibm\jre\lib\ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="C:\ford\jdk\ibm\jre\lib\endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
     <libraryInfo home="C:\Users\rnandak3\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149" version="16.0.2"/>
 </libraryInfos>
