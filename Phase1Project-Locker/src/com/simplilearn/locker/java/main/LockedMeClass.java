@@ -143,7 +143,7 @@ public class LockedMeClass {
 				case 6:
 					// File to be deleted.
 					System.out.println("Enter the file name to be deleted : ");
-					fileName = obj.nextLine();
+					fileName = obj.next();
 
 					isDeleted = FileManager.removeFile(folderPath, fileName);
 					if (isDeleted)

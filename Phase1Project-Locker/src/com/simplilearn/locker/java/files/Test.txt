@@ -1,0 +1,12 @@
+Testing the Menu
+Entered Option 2
+We are writing the contents
+Thanks for Testing
+Testing Ends Here
+Testing the Menu
+Entered Option 2
+We are writing the contents
+Thanks for Testing
+Testing Ends Here
+New line appended to the File
+Thank you!
